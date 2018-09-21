@@ -14,3 +14,5 @@ this repository contains my assignments
 [Exam_Python](https://github.com/bram17/assignments/blob/master/Eindexamen%20Python%20(1).ipynb)
 
 [Exam R september 21](https://github.com/bram17/assignments/blob/master/exam_2_student%20(1).ipynb)
+
+[Exam Python september 21] (https://github.com/bram17/assignments/blob/master/exam_Sep_211_2018%20(1).ipynb)
